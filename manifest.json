@@ -1,0 +1,22 @@
+{
+  "name": "Trend2in News",
+  "short_name": "Trend2in",
+  "start_url": "https://www.trend2in.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e50914",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://www.trend2in.com/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.trend2in.com/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
